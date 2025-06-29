@@ -73,7 +73,7 @@ export default function ProductGallery() {
 
               {/* Floating Badge */}
               <div className="absolute top-6 right-6 bg-gradient-to-r from-yellow-500/90 to-yellow-600/90 backdrop-blur-sm text-black px-4 py-2 rounded-full text-sm font-bold opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-y-2 group-hover:translate-y-0">
-                {activeTab === "gold" ? "Ouro 18k" : "Prata Refinada"}
+                {activeTab === "gold" ? "Ouro" : "Prata Refinada"}
               </div>
             </div>
 

@@ -11,7 +11,7 @@ export default function HeroCarousel() {
     {
       src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2009_40_25%20PM-rsEqvgbJm2eqNFNnuy7tghCpbOI8zK.png",
       alt: "Mulher elegante usando pulseiras douradas Toda Meiga",
-      badge: "Ouro 18k",
+      badge: "Ouro",
     },
     {
       src: "/images/gold-collection-1.png",

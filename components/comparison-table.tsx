@@ -7,7 +7,7 @@ export default function ComparisonTable() {
   const features = [
     {
       name: "Material e acabamento",
-      rainha: "Banho de ouro 18k premium",
+      rainha: "Banho de ouro premium",
       princesa: "Banho de prata refinada",
       icon: "✨",
     },
@@ -28,12 +28,6 @@ export default function ComparisonTable() {
       rainha: "Combinações ilimitadas para qualquer ocasião",
       princesa: "Combinações versáteis para o dia a dia",
       icon: "🎭",
-    },
-    {
-      name: "Estojo Incluso",
-      rainha: "Estojo premium com divisórias organizadoras",
-      princesa: "Estojo compacto elegante",
-      icon: "📦",
     },
     {
       name: "Valor por peça",
@@ -66,7 +60,7 @@ export default function ComparisonTable() {
             <div className="relative z-10">
               <Crown className="h-12 w-12 text-yellow-400 mx-auto mb-4" />
               <h3 className={`${crimson.className} text-3xl font-bold text-white mb-3`}>Kit Rainha</h3>
-              <p className="text-yellow-300 font-semibold mb-6">Ouro 18k - 32 peças</p>
+              <p className="text-yellow-300 font-semibold mb-6">Ouro - 32 peças</p>
 
               <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-6 mb-6">
                 <div className="flex items-center justify-center gap-3 mb-2">
@@ -109,7 +103,7 @@ export default function ComparisonTable() {
                   <span className="text-gray-400 line-through text-lg">R$ 179,00</span>
                   <span className="bg-white text-black px-3 py-1 rounded-full text-sm font-bold">15% OFF</span>
                 </div>
-                <div className="text-4xl font-bold text-white mb-2">R$ 139,00</div>
+                <div className="text-4xl font-bold text-white mb-2">R$ 139,90</div>
                 <div className="text-gray-300">ou 12x de R$ 15,83</div>
                 <div className="text-sm text-yellow-400 font-medium mt-2">Economia de R$ 40,00</div>
               </div>
@@ -181,7 +175,6 @@ export default function ComparisonTable() {
           <div className="bg-yellow-500/10 rounded-xl p-4 border border-yellow-500/30">
             <h5 className="font-bold text-yellow-400 mb-2 text-center">Kit Rainha</h5>
             <ul className="text-gray-300 text-sm space-y-1">
-              <li>• Banho de ouro 18k premium</li>
               <li>• R$ 9,28 por peça (32 unidades)</li>
               <li>• Economia de até R$ 100</li>
             </ul>
@@ -190,7 +183,6 @@ export default function ComparisonTable() {
           <div className="bg-gray-800/50 rounded-xl p-4 border border-gray-600">
             <h5 className="font-bold text-white mb-2 text-center">Kit Princesa</h5>
             <ul className="text-gray-300 text-sm space-y-1">
-              <li>• Banho de prata refinada</li>
               <li>• R$ 12,31 por peça (16 unidades)</li>
               <li>• Economia de até R$ 50</li>
             </ul>

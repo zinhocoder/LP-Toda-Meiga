@@ -70,7 +70,7 @@ export default function Home() {
               </h1>
 
               <p className="text-xl md:text-2xl mb-8 font-light text-gray-300 leading-relaxed text-center lg:text-left">
-                Descubra nossa coleção exclusiva de pulseiras artesanais banhadas a ouro 18k e prata refinada.
+                Descubra nossa coleção exclusiva de pulseiras artesanais banhadas a ouro e prata refinada.
               </p>
 
               {/* Countdown Timer Hero - Mobile Responsive */}
@@ -157,7 +157,7 @@ export default function Home() {
                   </div>
 
                   <div className="absolute bottom-6 left-6 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black px-4 py-2 rounded-full text-sm font-bold shadow-lg">
-                    Ouro 18k
+                    Ouro
                   </div>
                 </div>
 
@@ -200,7 +200,7 @@ export default function Home() {
                   </div>
 
                   <div className="absolute bottom-4 left-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black px-3 py-2 rounded-full text-xs font-bold shadow-lg">
-                    Ouro 18k
+                    Ouro
                   </div>
                 </div>
               </div>
@@ -229,7 +229,7 @@ export default function Home() {
         <div className="container mx-auto px-6 md:px-8 relative z-10">
           <div className="text-center mb-20">
             <h2 className={`${crimson.className} text-4xl md:text-5xl font-bold mb-6 text-white`}>
-              Por Que Escolher a Toda Meiga
+              Por Que Escolher o Kit de Pulseiras
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
               Mais de 5.000 mulheres já descobriram o segredo da elegância acessível
@@ -243,7 +243,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold mb-4 text-white">Qualidade Premium</h3>
               <p className="text-gray-300 leading-relaxed">
-                Banho de ouro 18k e prata refinada com durabilidade excepcional de até 2 anos
+                Banho de ouro e prata refinada
               </p>
             </div>
 
@@ -263,7 +263,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold mb-4 text-white">Entrega Expressa</h3>
               <p className="text-gray-300 leading-relaxed">
-                Receba em casa em até 3 dias úteis com frete grátis para todo o Brasil
+                Receba em casa em até 14 dias úteis com frete grátis para todo o Brasil
               </p>
             </div>
           </div>
@@ -390,14 +390,13 @@ export default function Home() {
               <div className="p-8">
                 <div className="text-center mb-8">
                   <h3 className={`${crimson.className} text-3xl font-bold mb-3 text-white`}>Kit Rainha 32</h3>
-                  <p className="text-gray-300 text-lg">32 pulseiras banhadas a ouro 18k</p>
+                  <p className="text-gray-300 text-lg">32 pulseiras banhadas a ouro</p>
                 </div>
 
                 <div className="space-y-4 mb-8">
                   {[
-                    "32 peças banhadas a ouro 18k",
+                    "32 peças banhadas a ouro",
                     "Máxima versatilidade de combinações",
-                    "Estojo premium com divisórias",
                     "Garantia total de 90 dias",
                     "Frete grátis para todo Brasil",
                   ].map((item, i) => (
@@ -421,7 +420,7 @@ export default function Home() {
                 </div>
 
                 <a
-                  href="https://todameiga.com/cart/49809831985430:1"
+                  href="https://seguro.todameiga.com/r/JWQFDAWAC0"
                   className="block w-full text-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold"
                 >
                   Escolher Kit Rainha 32
@@ -460,7 +459,6 @@ export default function Home() {
                   {[
                     "32 peças banhadas a prata refinada",
                     "Máxima versatilidade de combinações",
-                    "Estojo premium com divisórias",
                     "Garantia total de 90 dias",
                     "Frete grátis para todo o Brasil",
                   ].map((item, i) => (
@@ -484,7 +482,7 @@ export default function Home() {
                 </div>
 
                 <a
-                  href="https://todameiga.com/cart/49809832018198:1"
+                  href="https://seguro.todameiga.com/r/NWTRCXD6V6"
                   className="block w-full text-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold"
                 >
                   Escolher Kit Rainha 32
@@ -504,12 +502,12 @@ export default function Home() {
               64 pulseiras no total + desconto adicional + frete grátis garantido
             </p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-8">
-              <div className="text-xl font-semibold">Kit Rainha 32 Ouro + Prata</div>
-              <div className="text-4xl font-bold">R$ 339,90</div>
+              <div className="text-xl font-semibold">Kit Rainha 32 Peças Ouro</div>
+              <div className="text-4xl font-bold">R$ 189,90</div>
               <div className="bg-black text-yellow-400 px-4 py-2 rounded-full font-bold">Economize R$ 19,90</div>
             </div>
             <a
-              href="https://todameiga.com/cart/49809831985430:1,49809832018198:1"
+              href="https://seguro.todameiga.com/r/JWQFDAWAC0"
               className="inline-flex items-center justify-center px-10 py-4 bg-black text-yellow-400 rounded-xl hover:bg-gray-900 transition-all duration-300 shadow-lg font-bold text-lg"
             >
               Adquirir Combo 64 Peças
@@ -548,12 +546,12 @@ export default function Home() {
               <div className="p-8">
                 <div className="text-center mb-8">
                   <h3 className={`${crimson.className} text-3xl font-bold mb-3 text-white`}>Kit Princesa 16</h3>
-                  <p className="text-gray-300 text-lg">16 pulseiras banhadas a ouro 18k</p>
+                  <p className="text-gray-300 text-lg">16 pulseiras banhadas a ouro</p>
                 </div>
 
                 <div className="space-y-4 mb-8">
                   {[
-                    "16 peças banhadas a ouro 18k",
+                    "16 peças banhadas a ouro",
                     "Designs mais populares",
                     "Estojo compacto elegante",
                     "Garantia total de 90 dias",
@@ -579,7 +577,7 @@ export default function Home() {
                 </div>
 
                 <a
-                  href="https://todameiga.com/cart/49809831919894:1"
+                  href="https://seguro.todameiga.com/r/D7RTY2JBEQ"
                   className="block w-full text-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold"
                 >
                   Escolher Kit Princesa 16 Pulseiras
@@ -642,7 +640,7 @@ export default function Home() {
                 </div>
 
                 <a
-                  href="https://todameiga.com/cart/49809831952662:1"
+                  href="https://seguro.todameiga.com/r/NO6UVM6X8M"
                   className="block w-full text-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold"
                 >
                   Escolher Kit Princesa 16 Pulseiras
@@ -662,12 +660,12 @@ export default function Home() {
               32 pulseiras no total + desconto adicional + frete grátis garantido
             </p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-8">
-              <div className="text-xl font-semibold">Kit Princesa 16 Ouro + Prata</div>
-              <div className="text-4xl font-bold">R$ 278,90</div>
-              <div className="bg-black text-yellow-400 px-4 py-2 rounded-full font-bold">Economize R$ 12,90</div>
+              <div className="text-xl font-semibold">Kit Princesa 16 Prata Refinada</div>
+              <div className="text-4xl font-bold">R$ 139,90</div>
+              <div className="bg-black text-yellow-400 px-4 py-2 rounded-full font-bold">Economize R$ 50,00</div>
             </div>
             <a
-              href="https://todameiga.com/cart/49809831919894:1,49809831952662:1"
+              href="https://seguro.todameiga.com/r/NO6UVM6X8M"
               className="inline-flex items-center justify-center px-10 py-4 bg-black text-yellow-400 rounded-xl hover:bg-gray-900 transition-all duration-300 shadow-lg font-bold text-lg"
             >
               Adquirir Combo 32 Peças
@@ -766,7 +764,7 @@ export default function Home() {
                     <Award className="h-8 w-8 text-black" />
                   </div>
                   <h4 className="font-bold text-white mb-2">Qualidade</h4>
-                  <p className="text-gray-300 text-sm">Durabilidade de até 2 anos</p>
+                  <p className="text-gray-300 text-sm">Ouro e prata refinada de qualidade máxima</p>
                 </div>
                 <div className="text-center">
                   <div className="w-16 h-16 bg-gradient-to-br from-yellow-500 to-yellow-600 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -896,7 +894,7 @@ export default function Home() {
                   <h4 className="font-bold text-white mb-2">WhatsApp</h4>
                   <p className="text-gray-300 text-sm mb-4">Resposta imediata</p>
                   <a
-                    href="#whatsapp"
+                    href="https://wa.me/5545999453890?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20as%20pulseiras"
                     className="inline-flex items-center justify-center w-full py-3 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-lg hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 font-semibold"
                   >
                     Falar no WhatsApp
@@ -905,7 +903,7 @@ export default function Home() {
               </div>
 
               <a
-                href="#contact"
+                href="https://wa.me/5545999453890?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20as%20pulseiras"
                 className="inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold"
               >
                 Falar com Especialista Agora
@@ -954,7 +952,7 @@ export default function Home() {
                   <Truck className="h-8 w-8 text-black" />
                 </div>
                 <h3 className="font-semibold mb-3 text-lg text-white">Frete Grátis</h3>
-                <p className="text-gray-300">Acima de R$ 199 para todo Brasil</p>
+                <p className="text-gray-300">Frete grátis para todo Brasil</p>
               </div>
 
               <div className="text-center bg-gradient-to-br from-gray-900 to-black border border-yellow-500/30 p-8 rounded-2xl">
@@ -1013,7 +1011,7 @@ export default function Home() {
                 <div className="text-3xl font-bold mb-2 text-yellow-400">A partir de R$ 189,90</div>
                 <div className="text-lg text-gray-300 mb-6">Máxima versatilidade</div>
                 <a
-                  href="https://todameiga.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlhWNjY4UlpRMlkzRDFUN1pQWDc4WFQ2?cart_link_id=t5Pj2vqx"
+                  href="https://seguro.todameiga.com/r/JWQFDAWAC0"
                   className="block w-full py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 font-bold"
                 >
                   Ver Kit 32 Peças
@@ -1025,7 +1023,7 @@ export default function Home() {
                 <div className="text-3xl font-bold mb-2 text-white">A partir de R$ 139,90</div>
                 <div className="text-lg text-gray-300 mb-6">Entrada perfeita</div>
                 <a
-                  href="https://todameiga.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlhWNjY4UlpRMlkzRDFUN1pQWDc4WFQ2?cart_link_id=vkVEJCo3"
+                  href="https://seguro.todameiga.com/r/D7RTY2JBEQ"
                   className="block w-full py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 font-bold"
                 >
                   Ver Kit 16 Peças

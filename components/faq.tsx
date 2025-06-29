@@ -13,7 +13,7 @@ export default function Faq() {
     {
       question: "Qual a durabilidade das pulseiras?",
       answer:
-        "Nossas pulseiras são produzidas com materiais de alta qualidade e possuem banho de ouro 18k ou prata refinada. Com os cuidados adequados, a durabilidade média é de 2 anos, mantendo o brilho e a cor originais. Oferecemos também dicas de cuidados para maximizar a vida útil das suas peças.",
+        "Nossas pulseiras são produzidas com materiais de alta qualidade e possuem banho de ouro ou prata refinada. Oferecemos também dicas de cuidados para maximizar a vida útil das suas peças.",
     },
     {
       question: "As pulseiras causam alergia?",
@@ -28,7 +28,7 @@ export default function Faq() {
     {
       question: "Qual o prazo de entrega?",
       answer:
-        "O prazo de entrega varia de acordo com a sua localização. Após a confirmação do pagamento, enviamos em até 24h úteis. O prazo médio de entrega é de 7 a 14 dias úteis para capitais e regiões metropolitanas, e 7 a 15 dias úteis para demais localidades. Oferecemos rastreamento completo do pedido.",
+        "O prazo de entrega varia de acordo com a sua localização. Após a confirmação do pagamento, enviamos em até 24h úteis. O prazo médio de entrega é de 7 a 14 dias úteis. Oferecemos rastreamento completo do pedido.",
     },
     {
       question: "Como funciona a garantia de 90 dias?",
@@ -38,7 +38,7 @@ export default function Faq() {
     {
       question: "Qual a diferença entre Kit Rainha e Kit Princesa?",
       answer:
-        "A principal diferença está na quantidade de pulseiras, Kit Princesa = 16 peças, Kit Rainha = 32 unidades.",
+        "A principal diferença está na quantidade de pulseiras, <br/>Kit Princesa = 16 peças, <br/>Kit Rainha = 32 unidades.",
     },
     {
       question: "Vocês oferecem garantia contra defeitos?",

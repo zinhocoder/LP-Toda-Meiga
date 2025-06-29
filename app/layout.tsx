@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Toda Meiga | Pulseiras Exclusivas Banhadas a Ouro e Prata",
   description:
-    "Descubra nossa coleção exclusiva de pulseiras artesanais banhadas a ouro 18k e prata refinada. Kit Rainha com 32 peças ou Kit Princesa com 16 peças. Luxo acessível para mulheres sofisticadas.",
+    "Descubra nossa coleção exclusiva de pulseiras artesanais banhadas a ouro e prata refinada. Kit Rainha com 32 peças ou Kit Princesa com 16 peças. Luxo acessível para mulheres sofisticadas.",
   keywords:
-    "joias exclusivas, pulseiras artesanais, ouro 18k, prata refinada, acessórios femininos, luxo acessível, toda meiga",
+    "joias exclusivas, pulseiras artesanais, ouro, prata refinada, acessórios femininos, luxo acessível, toda meiga",
 }
 
 export default function RootLayout({
