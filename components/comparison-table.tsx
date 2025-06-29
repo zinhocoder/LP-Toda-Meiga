@@ -79,7 +79,7 @@ export default function ComparisonTable() {
               </div>
 
               <a
-                href="#checkout-rainha"
+                href="https://todameiga.com/cart/49809831985430:1"
                 className="inline-flex items-center justify-center w-full py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold text-lg"
               >
                 <ShoppingBag className="mr-3 h-5 w-5" />
@@ -115,7 +115,7 @@ export default function ComparisonTable() {
               </div>
 
               <a
-                href="#checkout-princesa"
+                href="https://todameiga.com/cart/49809831952662:1"
                 className="inline-flex items-center justify-center w-full py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 text-black rounded-xl hover:from-yellow-400 hover:to-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-500/25 font-bold text-lg"
               >
                 <ShoppingBag className="mr-3 h-5 w-5" />
@@ -184,7 +184,6 @@ export default function ComparisonTable() {
               <li>• Banho de ouro 18k premium</li>
               <li>• R$ 9,28 por peça (32 unidades)</li>
               <li>• Economia de até R$ 100</li>
-              <li>• Estojo premium com divisórias</li>
             </ul>
           </div>
 
@@ -194,7 +193,6 @@ export default function ComparisonTable() {
               <li>• Banho de prata refinada</li>
               <li>• R$ 12,31 por peça (16 unidades)</li>
               <li>• Economia de até R$ 50</li>
-              <li>• Estojo compacto elegante</li>
             </ul>
           </div>
         </div>

@@ -10,22 +10,22 @@ export default function StyleCarousel() {
 
   const images = [
     {
-      src: "/placeholder.svg?height=600&width=900",
+      src: "/images/carrosel1.png?height=600&width=900",
       alt: "Mulher elegante usando pulseiras douradas com vestido de noite",
       caption: "Perfeito para ocasiões especiais",
     },
     {
-      src: "/placeholder.svg?height=600&width=900",
+      src: "/images/carrosel2.png?height=600&width=900",
       alt: "Mulher de negócios com pulseiras prateadas em ambiente de escritório",
       caption: "Elegância para o ambiente profissional",
     },
     {
-      src: "/placeholder.svg?height=600&width=900",
-      alt: "Mulher com estilo casual chique usando mix de pulseiras douradas e prateadas",
+      src: "/images/carrosel3.png?height=600&width=900",
+      alt: "Mulher com estilo casual chique usando mix de pulseiras douradas",
       caption: "Versatilidade para o dia a dia",
     },
     {
-      src: "/placeholder.svg?height=600&width=900",
+      src: "/images/carrosel4.png?height=600&width=900",
       alt: "Mulher na praia com pulseiras douradas delicadas",
       caption: "Leveza para momentos de lazer",
     },

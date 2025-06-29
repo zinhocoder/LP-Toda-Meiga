@@ -23,22 +23,22 @@ export default function Faq() {
     {
       question: "Como cuidar das minhas pulseiras?",
       answer:
-        "Para manter suas pulseiras sempre bonitas, recomendamos: evitar contato com perfumes, cremes e produtos químicos; guardar em local seco, preferencialmente no estojo fornecido; limpar com pano macio e seco; não usar durante banho, piscina ou atividades físicas intensas. Seguindo essas dicas, suas peças manterão o brilho por muito mais tempo.",
+        "Para manter suas pulseiras sempre bonitas, recomendamos: evitar contato com perfumes, cremes e produtos químicos; guardar em local seco, limpar com pano macio e seco; não usar durante banho, piscina ou atividades físicas intensas. Seguindo essas dicas, suas peças manterão o brilho por muito mais tempo.",
     },
     {
       question: "Qual o prazo de entrega?",
       answer:
-        "O prazo de entrega varia de acordo com a sua localização. Após a confirmação do pagamento, enviamos em até 24h úteis. O prazo médio de entrega é de 3 a 7 dias úteis para capitais e regiões metropolitanas, e 7 a 15 dias úteis para demais localidades. Oferecemos rastreamento completo do pedido.",
+        "O prazo de entrega varia de acordo com a sua localização. Após a confirmação do pagamento, enviamos em até 24h úteis. O prazo médio de entrega é de 7 a 14 dias úteis para capitais e regiões metropolitanas, e 7 a 15 dias úteis para demais localidades. Oferecemos rastreamento completo do pedido.",
     },
     {
-      question: "Como funciona a garantia de 7 dias?",
+      question: "Como funciona a garantia de 90 dias?",
       answer:
-        "Oferecemos garantia de satisfação de 7 dias a partir do recebimento do produto. Se você não ficar 100% satisfeita com o produto, pode solicitar a devolução e reembolso integral do valor pago. O produto deve ser devolvido nas mesmas condições em que foi recebido, com embalagem original e sem sinais de uso.",
+        "Oferecemos garantia de satisfação de 90 dias a partir do recebimento do produto. Se você não ficar 100% satisfeita com o produto, pode solicitar a devolução e reembolso integral do valor pago. O produto deve ser devolvido nas mesmas condições em que foi recebido, com embalagem original e sem sinais de uso.",
     },
     {
       question: "Qual a diferença entre Kit Rainha e Kit Princesa?",
       answer:
-        "A principal diferença está no material: o Kit Rainha possui pulseiras banhadas a ouro 18k, enquanto o Kit Princesa tem pulseiras banhadas a prata refinada. Ambos os kits estão disponíveis em versões de 16 ou 32 peças, permitindo que você escolha a quantidade ideal para seu estilo e orçamento. A qualidade e durabilidade são as mesmas em ambas as coleções.",
+        "A principal diferença está na quantidade de pulseiras, Kit Princesa = 16 peças, Kit Rainha = 32 unidades.",
     },
     {
       question: "Vocês oferecem garantia contra defeitos?",
@@ -94,7 +94,7 @@ export default function Faq() {
       <div className="mt-12 grid md:grid-cols-3 gap-6">
         <div className="flex items-center justify-center bg-gradient-to-r from-yellow-500/20 to-yellow-600/20 backdrop-blur-sm border border-yellow-500/30 rounded-xl p-4">
           <Check className="h-5 w-5 text-yellow-400 mr-3" />
-          <span className="text-white font-medium">Garantia de 7 dias</span>
+          <span className="text-white font-medium">Garantia de 90 dias</span>
         </div>
         <div className="flex items-center justify-center bg-gradient-to-r from-yellow-500/20 to-yellow-600/20 backdrop-blur-sm border border-yellow-500/30 rounded-xl p-4">
           <Check className="h-5 w-5 text-yellow-400 mr-3" />
