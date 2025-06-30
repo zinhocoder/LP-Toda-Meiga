@@ -497,9 +497,9 @@ export default function Home() {
 
           {/* Combo 32 Peças */}
           <div className="max-w-4xl mx-auto bg-gradient-to-r from-yellow-500 to yellow-600 text-black rounded-2xl p-12 text-center mb-20">
-            <h3 className={`${crimson.className} text-3xl font-bold mb-4`}>Combo Completo 32 + 32</h3>
+            <h3 className={`${crimson.className} text-3xl font-bold mb-4`}>Kit Rainha</h3>
             <p className="text-xl mb-8 opacity-90">
-              64 pulseiras no total + desconto adicional + frete grátis garantido
+              32 pulseiras no total + desconto adicional + frete grátis garantido
             </p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-8">
               <div className="text-xl font-semibold">Kit Rainha 32 Peças Ouro</div>
@@ -510,7 +510,7 @@ export default function Home() {
               href="https://seguro.todameiga.com/r/JWQFDAWAC0"
               className="inline-flex items-center justify-center px-10 py-4 bg-black text-yellow-400 rounded-xl hover:bg-gray-900 transition-all duration-300 shadow-lg font-bold text-lg"
             >
-              Adquirir Combo 64 Peças
+              ADQUIRIR AGORA
             </a>
           </div>
 
@@ -655,9 +655,9 @@ export default function Home() {
 
           {/* Combo 16 Peças */}
           <div className="mt-20 max-w-4xl mx-auto bg-gradient-to-r from-gray-700 to-gray-600 text-white rounded-2xl p-12 text-center">
-            <h3 className={`${crimson.className} text-3xl font-bold mb-4`}>Combo Essencial 16 + 16</h3>
+            <h3 className={`${crimson.className} text-3xl font-bold mb-4`}>Kit Princesa</h3>
             <p className="text-xl mb-8 opacity-90">
-              32 pulseiras no total + desconto adicional + frete grátis garantido
+              16 pulseiras no total + desconto adicional + frete grátis garantido
             </p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-8">
               <div className="text-xl font-semibold">Kit Princesa 16 Prata Refinada</div>
@@ -668,7 +668,7 @@ export default function Home() {
               href="https://seguro.todameiga.com/r/NO6UVM6X8M"
               className="inline-flex items-center justify-center px-10 py-4 bg-black text-yellow-400 rounded-xl hover:bg-gray-900 transition-all duration-300 shadow-lg font-bold text-lg"
             >
-              Adquirir Combo 32 Peças
+              ADQUIRIR AGORA
             </a>
           </div>
         </div>
